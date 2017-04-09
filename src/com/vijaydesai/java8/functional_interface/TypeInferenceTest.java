@@ -1,4 +1,4 @@
-package com.vijaydesai.java8.functinal_interface;
+package com.vijaydesai.java8.functional_interface;
 
 import java.util.ArrayList;
 import java.util.Collections;
